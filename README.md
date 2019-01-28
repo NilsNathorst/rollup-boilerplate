@@ -2,9 +2,9 @@
 
 ### Installation:
 
-```console
+```bash
 cd /srv 
-https://raw.githubusercontent.com/nilsWithSkills/rollup-boilerplate/master/template.sh
+wget https://raw.githubusercontent.com/nilsWithSkills/rollup-boilerplate/master/template.sh
 chmod 764 template.sh && ln -s /srv/blah.sh /usr/local/bin/template.sh
 ```
 

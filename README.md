@@ -8,6 +8,12 @@
 ~ chmod 764 template.sh && ln -s /usr/local/bin/template.sh /usr/local/bin/template
 ```
 
+### Usage
+After you have installed the script, go to "Documents/Projects" and run the script!
+```bash
+~ template my_proj_name
+```
+
 ### Uninstall:
 
 ```bash

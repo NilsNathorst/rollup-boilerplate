@@ -10,7 +10,7 @@ chmod 764 template.sh && ln -s /srv/blah.sh /usr/local/bin/template.sh
 
 ### Uninstall:
 
-```console
+```bash
 unlink /usr/local/bin/template.sh
 cd /srv && rm -f template.sh
 ```

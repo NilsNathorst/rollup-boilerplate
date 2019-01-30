@@ -20,3 +20,5 @@ After you have installed the script, go to "Documents/Projects" and run the scri
 ~ unlink /usr/local/bin/template
 ~ rm -f /usr/local/bin/template.sh
 ``` 
+#### Notes:
+Currently doesn't work on Windows.
